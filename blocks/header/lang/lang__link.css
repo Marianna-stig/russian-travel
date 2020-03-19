@@ -1,0 +1,21 @@
+.lang__link {
+ text-decoration: none;
+ color: white;
+ margin-right: 18px;
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 23px;
+ }
+ 
+ .lang__link:hover {
+    text-decoration: underline;
+}
+
+     
+   
+     
+     
+    
+    
